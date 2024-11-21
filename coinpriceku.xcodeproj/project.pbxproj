@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DE8D776C2CEF096100FD1F71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DE8D774D2CEF095F00FD1F71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DE8D77542CEF095F00FD1F71;
+			remoteInfo = coinpriceku;
+		};
+		DE8D77762CEF096100FD1F71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DE8D774D2CEF095F00FD1F71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DE8D77542CEF095F00FD1F71;
+			remoteInfo = coinpriceku;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DE8D77552CEF095F00FD1F71 /* coinpriceku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = coinpriceku.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE8D776B2CEF096100FD1F71 /* coinpricekuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = coinpricekuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE8D77752CEF096100FD1F71 /* coinpricekuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = coinpricekuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DE8D777D2CEF096100FD1F71 /* Exceptions for "coinpriceku" folder in "coinpriceku" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = DE8D77542CEF095F00FD1F71 /* coinpriceku */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DE8D77572CEF095F00FD1F71 /* coinpriceku */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				DE8D777D2CEF096100FD1F71 /* Exceptions for "coinpriceku" folder in "coinpriceku" target */,
+			);
+			path = coinpriceku;
+			sourceTree = "<group>";
+		};
+		DE8D776E2CEF096100FD1F71 /* coinpricekuTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = coinpricekuTests;
+			sourceTree = "<group>";
+		};
+		DE8D77782CEF096100FD1F71 /* coinpricekuUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = coinpricekuUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DE8D77522CEF095F00FD1F71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77682CEF096100FD1F71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77722CEF096100FD1F71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DE8D774C2CEF095F00FD1F71 = {
+			isa = PBXGroup;
+			children = (
+				DE8D77572CEF095F00FD1F71 /* coinpriceku */,
+				DE8D776E2CEF096100FD1F71 /* coinpricekuTests */,
+				DE8D77782CEF096100FD1F71 /* coinpricekuUITests */,
+				DE8D77562CEF095F00FD1F71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DE8D77562CEF095F00FD1F71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DE8D77552CEF095F00FD1F71 /* coinpriceku.app */,
+				DE8D776B2CEF096100FD1F71 /* coinpricekuTests.xctest */,
+				DE8D77752CEF096100FD1F71 /* coinpricekuUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DE8D77542CEF095F00FD1F71 /* coinpriceku */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE8D777E2CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpriceku" */;
+			buildPhases = (
+				DE8D77512CEF095F00FD1F71 /* Sources */,
+				DE8D77522CEF095F00FD1F71 /* Frameworks */,
+				DE8D77532CEF095F00FD1F71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DE8D77572CEF095F00FD1F71 /* coinpriceku */,
+			);
+			name = coinpriceku;
+			packageProductDependencies = (
+			);
+			productName = coinpriceku;
+			productReference = DE8D77552CEF095F00FD1F71 /* coinpriceku.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DE8D776A2CEF096100FD1F71 /* coinpricekuTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE8D77832CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpricekuTests" */;
+			buildPhases = (
+				DE8D77672CEF096100FD1F71 /* Sources */,
+				DE8D77682CEF096100FD1F71 /* Frameworks */,
+				DE8D77692CEF096100FD1F71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DE8D776D2CEF096100FD1F71 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DE8D776E2CEF096100FD1F71 /* coinpricekuTests */,
+			);
+			name = coinpricekuTests;
+			packageProductDependencies = (
+			);
+			productName = coinpricekuTests;
+			productReference = DE8D776B2CEF096100FD1F71 /* coinpricekuTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DE8D77742CEF096100FD1F71 /* coinpricekuUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE8D77862CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpricekuUITests" */;
+			buildPhases = (
+				DE8D77712CEF096100FD1F71 /* Sources */,
+				DE8D77722CEF096100FD1F71 /* Frameworks */,
+				DE8D77732CEF096100FD1F71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DE8D77772CEF096100FD1F71 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DE8D77782CEF096100FD1F71 /* coinpricekuUITests */,
+			);
+			name = coinpricekuUITests;
+			packageProductDependencies = (
+			);
+			productName = coinpricekuUITests;
+			productReference = DE8D77752CEF096100FD1F71 /* coinpricekuUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DE8D774D2CEF095F00FD1F71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					DE8D77542CEF095F00FD1F71 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					DE8D776A2CEF096100FD1F71 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = DE8D77542CEF095F00FD1F71;
+					};
+					DE8D77742CEF096100FD1F71 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = DE8D77542CEF095F00FD1F71;
+					};
+				};
+			};
+			buildConfigurationList = DE8D77502CEF095F00FD1F71 /* Build configuration list for PBXProject "coinpriceku" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DE8D774C2CEF095F00FD1F71;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DE8D77562CEF095F00FD1F71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DE8D77542CEF095F00FD1F71 /* coinpriceku */,
+				DE8D776A2CEF096100FD1F71 /* coinpricekuTests */,
+				DE8D77742CEF096100FD1F71 /* coinpricekuUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DE8D77532CEF095F00FD1F71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77692CEF096100FD1F71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77732CEF096100FD1F71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DE8D77512CEF095F00FD1F71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77672CEF096100FD1F71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE8D77712CEF096100FD1F71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DE8D776D2CEF096100FD1F71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DE8D77542CEF095F00FD1F71 /* coinpriceku */;
+			targetProxy = DE8D776C2CEF096100FD1F71 /* PBXContainerItemProxy */;
+		};
+		DE8D77772CEF096100FD1F71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DE8D77542CEF095F00FD1F71 /* coinpriceku */;
+			targetProxy = DE8D77762CEF096100FD1F71 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DE8D777F2CEF096100FD1F71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = coinpriceku/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpriceku;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DE8D77802CEF096100FD1F71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = coinpriceku/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpriceku;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DE8D77812CEF096100FD1F71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DE8D77822CEF096100FD1F71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DE8D77842CEF096100FD1F71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpricekuTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/coinpriceku.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/coinpriceku";
+			};
+			name = Debug;
+		};
+		DE8D77852CEF096100FD1F71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpricekuTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/coinpriceku.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/coinpriceku";
+			};
+			name = Release;
+		};
+		DE8D77872CEF096100FD1F71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpricekuUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = coinpriceku;
+			};
+			name = Debug;
+		};
+		DE8D77882CEF096100FD1F71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6L2K48U86U;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.anangkur.coinpricekuUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = coinpriceku;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DE8D77502CEF095F00FD1F71 /* Build configuration list for PBXProject "coinpriceku" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE8D77812CEF096100FD1F71 /* Debug */,
+				DE8D77822CEF096100FD1F71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE8D777E2CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpriceku" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE8D777F2CEF096100FD1F71 /* Debug */,
+				DE8D77802CEF096100FD1F71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE8D77832CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpricekuTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE8D77842CEF096100FD1F71 /* Debug */,
+				DE8D77852CEF096100FD1F71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE8D77862CEF096100FD1F71 /* Build configuration list for PBXNativeTarget "coinpricekuUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE8D77872CEF096100FD1F71 /* Debug */,
+				DE8D77882CEF096100FD1F71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DE8D774D2CEF095F00FD1F71 /* Project object */;
+}
